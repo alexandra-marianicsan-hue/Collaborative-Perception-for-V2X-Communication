@@ -1,0 +1,4 @@
+ultralytics>=8.3.0
+onnxruntime>=1.17        # on Jetson with GPU: install NVIDIA's onnxruntime-gpu wheel instead
+opencv-python>=4.8
+numpy
