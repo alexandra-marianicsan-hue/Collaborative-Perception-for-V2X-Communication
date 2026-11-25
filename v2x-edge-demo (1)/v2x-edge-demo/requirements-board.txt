@@ -1,0 +1,4 @@
+# i.MX 8M Plus (NXP Linux 5.4, Python 3.7)
+numpy<1.22
+tflite-runtime
+pillow

@@ -1,0 +1,9 @@
+# Training / export (laptop or Google Colab)
+ultralytics>=8.4
+pillow
+numpy
+
+# Part 2 (nuScenes preparation, laptop only)
+# nuscenes-devkit
+# pyquaternion
+# opencv-python-headless   # optional: ORB keypoint cue (also optional on the board)
